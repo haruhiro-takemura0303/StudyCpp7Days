@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/projects/studyCpp/temp/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/cmake_test.dir/main.cpp.o -c /home/projects/studyCpp/temp/main.cpp",
-  "file": "/home/projects/studyCpp/temp/main.cpp"
-}
-]
