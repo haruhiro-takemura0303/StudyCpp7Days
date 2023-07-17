@@ -1,0 +1,3 @@
+/home/projects/studyCpp/day2/build/CMakeFiles/cmake_test.dir
+/home/projects/studyCpp/day2/build/CMakeFiles/edit_cache.dir
+/home/projects/studyCpp/day2/build/CMakeFiles/rebuild_cache.dir

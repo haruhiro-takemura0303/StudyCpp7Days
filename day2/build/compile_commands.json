@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/projects/studyCpp/day2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/cmake_test.dir/main.cpp.o -c /home/projects/studyCpp/day2/main.cpp",
+  "file": "/home/projects/studyCpp/day2/main.cpp"
+},
+{
+  "directory": "/home/projects/studyCpp/day2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/cmake_test.dir/sample.cpp.o -c /home/projects/studyCpp/day2/sample.cpp",
+  "file": "/home/projects/studyCpp/day2/sample.cpp"
+}
+]
